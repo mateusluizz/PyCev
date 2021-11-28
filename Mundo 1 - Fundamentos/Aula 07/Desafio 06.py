@@ -1,4 +1,4 @@
-# Exercício Python #006 - Dobro, Triplo, Raiz Quadrada
+# Desafio Python #006 - Dobro, Triplo, Raiz Quadrada
 
 """
 DESAFIO 006

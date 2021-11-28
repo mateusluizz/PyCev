@@ -1,4 +1,4 @@
-# Exercício Python #007 - Média Aritmética
+# Desafio Python #007 - Média Aritmética
 
 """
 DESAFIO 007

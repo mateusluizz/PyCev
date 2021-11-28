@@ -1,4 +1,4 @@
-# Exercício Python #008 - Conversor de Medidas
+# Desafio Python #008 - Conversor de Medidas
 
 """
 DESAFIO 008

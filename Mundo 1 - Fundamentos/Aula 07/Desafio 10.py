@@ -1,4 +1,4 @@
-# Exercício Python #010 - Conversor de Moedas
+# Desafio Python #010 - Conversor de Moedas
 
 """
 DESAFIO 010

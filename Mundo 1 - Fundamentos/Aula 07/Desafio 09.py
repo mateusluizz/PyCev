@@ -1,4 +1,4 @@
-# Exercício Python #009 - Tabuada
+# Desafio Python #009 - Tabuada
 
 """
 DESAFIO 009

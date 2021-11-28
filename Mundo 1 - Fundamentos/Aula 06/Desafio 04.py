@@ -1,4 +1,4 @@
-# Exercício Python #004 - Dissecando uma Variável
+# Desafio Python #004 - Dissecando uma Variável
 
 """
 DESAFIO 004

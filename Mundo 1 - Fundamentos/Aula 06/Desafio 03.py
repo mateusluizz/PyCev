@@ -1,4 +1,4 @@
-# Desafio 03
+# Desafio Python #003 - Soma de dois números
 
 """
 Crie um script Python que leia dois números e tente mostrar a soma entre eles.

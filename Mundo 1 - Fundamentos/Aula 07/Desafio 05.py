@@ -1,4 +1,4 @@
-# Exercício Python #005 - Antecessor e Sucessor
+# Desafio Python #005 - Antecessor e Sucessor
 
 """
 DESAFIO 005

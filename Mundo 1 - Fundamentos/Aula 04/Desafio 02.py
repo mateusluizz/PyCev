@@ -1,4 +1,4 @@
-# Desafio 02
+# Desafio Python #002 - Ler uma variável
 
 """
 Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
